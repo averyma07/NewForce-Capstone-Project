@@ -1,5 +1,8 @@
 # Animation: An Analysis of Its Past & Present Around the World
 
+### [Interactive Dashboard](https://public.tableau.com/views/capstone_17792198304270/Cover?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+Note: The dashboard might look different on your computer than it does in my presentation due to different monitors (or maybe something else). All the same information is there though.
+
 ## Table of Contents
 * [Motivation](#motivation)
 * [Questions](#questions)
